@@ -2,5 +2,5 @@
 - 👀 I’m a lover of all things tech! This is my GitHub profile, where I keep the code for my portfolio website, and a mix of other projects.
 - 🌱I am currently working with full-stack web technologies such as JavaScript, HTML and CSS, I have previously worked with Java, C++ & C from my time as an undergraduate.
 - 🍃 I am interested in pursuing a career in Full-stack Software Development.
-- 📫 You can reach me on my email: ✨ alim.116@hotmail.com ✨
+- 📫 You can reach me on my email: ✨ maryanali136@hotmail.com ✨
 
